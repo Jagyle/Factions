@@ -16,7 +16,7 @@ using System.Threading;
 
 namespace Factions
 {
-    [APIVersion(1, 12)]
+    [APIVersion(1, 21)]
     public class Factions : TerrariaPlugin
     {
         private static string savepath = Path.Combine(TShock.SavePath, "Factions/");
